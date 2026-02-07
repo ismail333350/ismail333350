@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ismail Mansour — Data Analyst | BI Enthusiast
+# 👋 Hi, I’m Ismail Mahmoud — Data Analyst | BI Enthusiast
 
 📊 Turning raw data into insights that drive decisions  
 🧠 Strong in SQL, Python, Analytics, and Business Intelligence  
@@ -34,6 +34,7 @@ I focus on:
 - Excel / Google Sheets  
 - PostgreSQL  
 - Data Modeling Basics  
+- Python
 
 **Analytics Areas**  
 - Customer Behavior Analysis  
