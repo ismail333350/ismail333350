@@ -26,6 +26,7 @@ I focus on:
 ![Power BI](https://img.shields.io/badge/Power%20BI-Microsoft-orange?style=flat-square&logo=microsoft-powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft-green?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey?style=flat-square&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blueviolet?style=flat-square&logo=seaborn&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-Microsoft-darkblue?style=flat-square&logo=microsoft-sql-server&logoColor=white)
