@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Ismail Mansour — Data Analyst
 
-<!--
-**ismail333350/ismail333350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Turning data into insights | SQL | Power BI | Analytics | BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I transform raw data into actionable business insights. Experienced in SQL, customer analytics, cohort analysis, revenue & sales reporting, and delivery performance tracking.
+
+---
+
+## Skills
+- **SQL & Databases:** CTEs, Window Functions, Joins, Aggregations  
+- **BI & Tools:** Power BI, PostgreSQL, Excel  
+- **Analytics:** Customer behavior, Sales & Revenue, Product performance, Cohort & Retention analysis  
+
+---
+
+## Featured Project
+**E-Commerce SQL Analytics**  
+- Top customers by lifetime value  
+- Revenue & cancellation rate by product category  
+- Seller delivery performance  
+- Delivery vs review score analysis  
+- Monthly sales trends & running totals  
+
+**Tech:** SQL, PostgreSQL, Window Functions, Aggregations  
+
+---
+
+## Career Goal
+To work as a **Data Analyst / BI Analyst**, solving real business problems and building impactful insights for strategic decision-making.
+
+---
+
+## Connect
+- 💼 LinkedIn: *(your link)*  
+- 📧 Email: *(your email)*  
+- 📊 Portfolio: see pinned repos
