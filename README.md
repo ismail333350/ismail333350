@@ -94,19 +94,13 @@ To work as a **Data Analyst / BI Analyst** where I can:
 
 ---
 
-## 📬 Let’s Connect
-
-- 💼 LinkedIn: *(add your link)*  
-- 📧 Email: *(add your email)*  
-- 📊 Portfolio Projects: See pinned repositories below
-
 
 ## Career Goal
 To work as a **Data Analyst / BI Analyst**, solving real business problems and building impactful insights for strategic decision-making.
 
 ---
 
-## Connect
+## Let's Connect
 - 💼 LinkedIn: *www.linkedin.com/in/ismail-mansour-67714a320* 
 - 📧 Email: *ismailmahmoudmansour2005@gmail.com*  
 - 📊 Portfolio: see pinned repos
